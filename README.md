@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/412815066.svg)](https://zenodo.org/badge/latestdoi/412815066)
+
 # Segmentos de Rotas nas calçadas
 
 Repositório destinado a métodos e resultados dos segmentos das redes de rotas nas calçadas da cidade de São Paulo à partir de dados abertos, cadastrais e restituidos disponívels no site do GeoSampa
